@@ -56,7 +56,7 @@ export function AppSidebar() {
                 }}
               >
                 <MCPIcon className="size-4 fill-foreground" />
-                <h4 className="font-bold">mcp/chat-bot</h4>
+                <h4 className="font-bold">Roaster AI</h4>
               </Link>
             </SidebarMenuButton>
           </SidebarMenuItem>

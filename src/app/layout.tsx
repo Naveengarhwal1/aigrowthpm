@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MCP Chat",
+  title: "Roaster AI",
   description:
-    "MCP Chat is a chatbot that uses the MCP Tools to answer questions.",
+    "Roaster AI is a chatbot that uses the MCP Tools to answer questions.",
 };
 
 const themes = BASE_THEMES.flatMap((t) => [t, `${t}-dark`]);
